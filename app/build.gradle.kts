@@ -2,6 +2,9 @@ plugins {
     alias(libs.plugins.androidApplication)
 }
 
+
+
+
 android {
     namespace = "com.example.bottomnavi"
     compileSdk = 34

@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BottomNavi"
-        tools:targetApi="31">
+        tools:targetApi="31"
+        android:usesCleartextTraffic="true">
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -24,7 +25,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyA7aq3xaaMlOOwtTWMyOMUCtyWFbvu9AGo" />
+            android:value="AIzaSyBtOchZ5iZsWKxjBayu8q2Qe3oQQQBgp9k" />
 
     </application>
 
